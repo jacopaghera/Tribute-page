@@ -1,1 +1,1 @@
-Tribute page for freecodecamp.org
+Product landing page for freecodecamp.org.
