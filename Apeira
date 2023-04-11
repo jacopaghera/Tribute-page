@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T17:14:36.639Z" agent="5.0 (Macintosh)" version="20.8.4" etag="LgwBOzOf0fxN4UYI86oz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T17:15:45.587Z" agent="5.0 (Macintosh)" version="20.8.4" etag="NKRu6-qtQSIVwYzfIMdo" type="github">
   <diagram id="StMOwGpF1_1KYCQcqECf" name="Pagina-1">
     <mxGraphModel dx="1194" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="190" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZiJFjrfdGgvn_grh0hR-6" value="Guitar 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;rotation=-5;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZiJFjrfdGgvn_grh0hR-7" value="Guitar 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="670" y="140" width="110" height="40" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="580" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZiJFjrfdGgvn_grh0hR-9" value="Guitar 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="110" height="40" as="geometry" />
+          <mxGeometry x="370" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZiJFjrfdGgvn_grh0hR-10" value="Guitar 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="110" height="40" as="geometry" />
+          <mxGeometry x="460" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZiJFjrfdGgvn_grh0hR-11" value="Mixer" style="whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="120" height="60" as="geometry" />
